@@ -1,0 +1,9 @@
+{
+  "name": "ThisIsSQL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "rambda": "^5.13.1"
+  }
+}
